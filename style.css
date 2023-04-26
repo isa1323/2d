@@ -1,38 +1,54 @@
-border-radius: 10px;
+body{
+  background-color: #963485
+}
+header{
+  background-color: #000000
+
 }
 
-.retangvermelho{
-.retangoloazul{
+.titulo{font-size: 100px; color: #C7C7C7; text-align: center;margin-top: -20%}
 
-  position: absolute;
-width: 223px;
-height: 1000px;
-left: 1217px;
-top: 24px;
-  width: 247px;
-  height: 1024px;
-  left: 1202px;
-  top: 0px;
-
-  background: #32AABE;
-
-background: #BE3232;
+h1{
+  font-family: inherit; text-align: center; color:white; ;
 }
-.retanguloverde{
-
-position: absolute;
-width: 242px;
-height: 1000px;
-left: 975px;
-top: 24px;
-  position: absolute;
-  width: 251px;
-  height: 1024px;
-  left: 959px;
-  top: 0px;
-
-background: #18BB94
-  background: #18BB94;
+h2{
+font-family: inherit; text-align: left; color: black
 }
-{
-  position: absolute;
+h3{
+  font-family: inherit;text-align: left; color: black
+}
+p1{
+  font-family: inherit;text-align: left; color: black
+}
+
+h4{
+  font-family: inherit;text-align: left; color: black
+}
+h5{
+  font-family: inherit;text-align: left; color: white
+}
+
+ul {
+  top: 200px;
+font-size: 30px;
+}
+
+.logo{
+width: 18%;
+margin-left: 78%;
+}
+
+.contato{font-family: cursive; background-color: #A89203; color: #FFFFFF ; font-size: 30px; text-align: center;}
+
+iframe{
+  width: 50%;
+  margin-left: 25%;
+}
+
+.minhafoto{
+
+  width: 62%;
+  margin-left: 10%;
+  border-radius: 20%
+
+}
